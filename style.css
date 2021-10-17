@@ -18,3 +18,7 @@ img{
     height: 375px;
     width: 300px;   
 }
+.container{
+    width: 70%;
+    margin: auto;
+}
